@@ -6,7 +6,7 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Some changes!");
+            Console.WriteLine("Some changes again!");
         }
     }
 }
